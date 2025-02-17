@@ -5,7 +5,7 @@ from gtts import gTTS
 from pydub import AudioSegment
 
 # 🔹 Yahan apna Telegram Bot Token dalein
-TELEGRAM_BOT_TOKEN = "bot token"
+TELEGRAM_BOT_TOKEN = "7325260480:AAEzwZK03KvmL18J0OtpoZEtBUHBSKIiRUU"
 
 # 🔊 Function jo text ko speech me convert karega aur volume badhayega
 def text_to_speech(text, filename="output.mp3"):
